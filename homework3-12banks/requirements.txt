@@ -1,0 +1,9 @@
+pdfplumber==0.11.9
+pypdf
+numpy
+scikit-learn
+jieba==0.42.1
+rank-bm25==0.2.2
+opencc-python-reimplemented==0.1.7
+reportlab
+pypdfium2

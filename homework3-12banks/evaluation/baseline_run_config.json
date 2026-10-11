@@ -1,0 +1,12 @@
+{
+  "prompt": "你是银行半年报问答助手。只能依据给出的证据回答，不使用外部知识补数。\n每个事实句和表格数据必须引用 [块ID]；只能引用本轮证据白名单中的ID。\n数字必须核对公司、2026年上半年/2026年6月末、集团或母行、单位、当期/比较期，保留表头与脚注条件。\n年度报告、全年结果及下半年未披露信息必须明确缺数据。涉及排名时，任何公司或口径缺失都不能声称完整排名。\n全景题逐公司给出证据；搜索到候选块不等于该公司的问题已覆盖。没有直接支持的明确写“证据不足”，最后说明已支持几家/需几家。\n原因分析只归纳报告明确披露的原因，不把推测写成因果。简洁作答。",
+  "temperature": 0,
+  "top_k_local": 8,
+  "top_k_per_company": 3,
+  "vector": "local LSA 192d",
+  "bm25": "jieba + BM25Okapi",
+  "fusion": "RRF(k=60), channel candidates=40",
+  "gold_exposed_to_model": false,
+  "source": "full source PDFs, extraction before question definition",
+  "note": "实际 token usage 和模型名逐题保存在 results.json；API 错误不判正确"
+}

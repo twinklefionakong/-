@@ -1,0 +1,17 @@
+{
+  "evidence_covered": 39,
+  "evidence_required": 53,
+  "evidence_coverage_display": "39/53 · 73.6%",
+  "full_evidence_questions": 7,
+  "answerable_questions": 9,
+  "full_question_coverage": "7/9",
+  "strict_correct": 8,
+  "total": 10,
+  "strict_accuracy_display": "8/10 · 80%",
+  "answerable_correct": "7/9",
+  "refusal_correct": "1/1",
+  "partial_correct": 2,
+  "baseline_strict_correct": 6,
+  "baseline_full_question_coverage": "5/9",
+  "evaluation_limit": "同10题首轮失败后修复复测；无独立测试集；LSA非预训练语义向量；核查由Codex完成，建议本人抽检；并不将12/12候选公司当证据覆盖。"
+}

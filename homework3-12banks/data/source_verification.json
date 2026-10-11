@@ -1,0 +1,122 @@
+[
+  {
+    "company": "建设银行",
+    "code": "601939",
+    "title": "建设银行2026年半年度报告",
+    "announcement_id": "1225531678",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531678.PDF",
+    "sha256": "44df14ec06aa5c44eb6584f8746a12a35a542207cc9b05f4559c0a1ab05c0735",
+    "is_pdf": true,
+    "matches_input": false
+  },
+  {
+    "company": "农业银行",
+    "code": "601288",
+    "title": "农业银行2026年半年度报告",
+    "announcement_id": "1225527334",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225527334.PDF",
+    "sha256": "727d2ba1b602442de76815414519a1a7ae531a55e9821d577b7af288df526601",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "中国银行",
+    "code": "601988",
+    "title": "中国银行股份有限公司2026年半年度报告",
+    "announcement_id": "1225526341",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526341.PDF",
+    "sha256": "b798a5056ed8ed888e6d8c89e061ab379c872095dd090b4b14b50e4c42f6186d",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "交通银行",
+    "code": "601328",
+    "title": "交通银行2026年半年度报告",
+    "announcement_id": "1225530238",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530238.PDF",
+    "sha256": "480ad7717978eaeb61eb7477bce2d5042c966e65a5314a2c57a8ac0ce819cde5",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "招商银行",
+    "code": "600036",
+    "title": "招商银行股份有限公司2026年半年度报告",
+    "announcement_id": "1225530237",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530237.PDF",
+    "sha256": "c7e68aeca3c8ec331ce7ecfde5faee9d97fa74e302944bf0e7141b154f9704a4",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "兴业银行",
+    "code": "601166",
+    "title": "兴业银行2026年半年度报告",
+    "announcement_id": "1225518025",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518025.PDF",
+    "sha256": "afe49e38cec7f11a903bc62a538b8babd86547ac7eb6847838505aaf9318fc5c",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "光大银行",
+    "code": "601818",
+    "title": "中国光大银行股份有限公司2026年半年度报告",
+    "announcement_id": "1225528526",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528526.PDF",
+    "sha256": "db2628aeec795f5cd79f7c4d860b34a61ec847bc4f99dc49e69debd59d0ee7be",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "北京银行",
+    "code": "601169",
+    "title": "北京银行股份有限公司2026年半年度报告",
+    "announcement_id": "1225533415",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225533415.PDF",
+    "sha256": "4243ae7c813532302337cd9c19106b0946dd1827724b63845150edfca703603a",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "厦门银行",
+    "code": "601187",
+    "title": "厦门银行股份有限公司2026年半年度报告",
+    "announcement_id": "1225529850",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529850.PDF",
+    "sha256": "5ffe1b632d0403c6b201f0e9268f0dcd0cf5b5e5012d76cfcb5d5b8493d6a772",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "郑州银行",
+    "code": "002936",
+    "title": "2026年半年度报告",
+    "announcement_id": "1225531956",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531956.PDF",
+    "sha256": "ec7b09117e9607cdce507a956f36c0d193af626a40cf08038d24a9aca2ace6c7",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "工商银行",
+    "code": "601398",
+    "title": "工商银行2026半年度报告",
+    "announcement_id": "1225526043",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526043.PDF",
+    "sha256": "4414ac7a0ddec5a2f60d6d49402aecb90d7a1bf907e90d8100955c8631c48a0b",
+    "is_pdf": true,
+    "matches_input": true
+  },
+  {
+    "company": "华夏银行",
+    "code": "600015",
+    "title": "华夏银行2026年半年度报告",
+    "announcement_id": "1225529191",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529191.PDF",
+    "sha256": "37c1d41a92e72a0bf8ce853adfdaf9b842cd2ed7b6e8fe8ff7ca7eeb6b7f2416",
+    "is_pdf": true,
+    "matches_input": true
+  }
+]
